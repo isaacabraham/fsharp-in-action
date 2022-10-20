@@ -1,0 +1,28 @@
+[
+    {
+        "Brand": "Ibanez",
+        "Strings": "7",
+        "Pickups": [
+            "H",
+            "S",
+            "H"
+        ]
+    },
+    {
+        "Brand": "PRS",
+        "Strings": "6",
+        "Pickups": [
+            "H",
+            "H"
+        ]
+    },
+    {
+        "Brand": "Fender",
+        "Strings": "6",
+        "Pickups": [
+            "S",
+            "S",
+            "S"
+        ]
+    }
+]
